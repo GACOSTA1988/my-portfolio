@@ -1,13 +1,14 @@
 .Epicodus {
   font-weight: bold;
-}
+  }
 #undertext {
   font-style: italic;
-}
+  }
 #myname {
   font-variant: small-caps;
   text-align: center;
-}
+  }
+
 .pic {
   display: block;
   margin-left: auto;
@@ -15,23 +16,27 @@
   width: 50%;
 }
 .border {
-border-width:50px;
-border-color: black;
-background-color:#3271a8;
-}
+  border-width:50px;
+  border-color: black;
+  background-color:#3271a8;
+  }
+
 .intro {
   text-align:center;
   color: black; font-family: 'Trocchi', serif;
   /*got font style from https://wdexplorer.com/20-examples-beautiful-css-typography-design*/
-}
+  }
+
 h1, h2, h3 {
   color: black; font-family: 'Trocchi', serif;
   font-weight: bolder;
   /*got font style from https://wdexplorer.com/20-examples-beautiful-css-typography-design*/
-}
- 
+  }
+
 .jumbotron {
   text-align: center;
-}
-li { text-decoration: underline;
-}
+  }
+
+li {
+  text-decoration: underline;
+  }
