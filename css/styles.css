@@ -1,3 +1,15 @@
 .Epicodus {
   font-weight: bold;
 }
+#undertext {
+  font-style: italic;
+}
+#myname {
+  font-variant: small-caps;
+  text-align: center;
+}
+.pic {
+  text-align: center;
+  border: 5px #1E64A6;
+  
+}
