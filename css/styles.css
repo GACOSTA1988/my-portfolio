@@ -8,8 +8,11 @@
   font-variant: small-caps;
   text-align: center;
 }
-.pic {
-  text-align: center;
-  border: 5px #1E64A6;
-  
+.picborder {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-width: medium;
+  border-color: black;
 }
