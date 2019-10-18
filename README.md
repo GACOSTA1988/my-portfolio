@@ -1,12 +1,12 @@
-#_{George Acosta Portfolio}_
+# George Acosta Portfolio
 
-####_{This Portfolio displays the authors recent coding projects, Education, and work history.
-#### By _**{George Acosta}**_
+#### This Portfolio displays the authors recent coding projects, Education, and work history.
+#### By George Acosta
 
 ## Setup
-* _Clone portfolio this repository
-* _Open simple HTTP server in the clone directory
-* _Open browser of choice
+* Clone portfolio this repository
+* Open simple HTTP server in the clone directory
+* Open browser of choice
 
 ## Technologies Used
 1. css
