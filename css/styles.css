@@ -40,3 +40,6 @@ h1, h2, h3 {
 li {
   text-decoration: underline;
   }
+.card-heading {
+  background-color: #d5dde8;
+  }
