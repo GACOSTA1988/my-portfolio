@@ -12,7 +12,8 @@
 1. css
 2. bootstrap
 
-### GitHub Pages Link
+[GitHub Pages Link](https://gacosta1988.github.io/my-portfolio/)
+
 
 ## Copyright (c) 2019 George Acosta
 #### This Software is licensed under the MIT licensed
